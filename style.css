@@ -6,6 +6,29 @@ body{
 h1{
     font-size: 50px;
 }
+header{
+    width: 100%;
+    height: 70px;
+    background-color: tomato;
+}
+#header-p{
+    position: absolute;
+    padding: 5px;
+    margin-left: 2%;
+    margin-top: 15Px;
+    color: white;
+}
+li{
+    display: inline-block;
+    float: right;
+    margin-top: 24px;
+    margin-left: 25px;
+    margin-right: 20px;
+}
+.ul-a{
+    text-decoration: none;
+    color: white;
+}
 .orange-text{
     color: #FB8847;
 }
